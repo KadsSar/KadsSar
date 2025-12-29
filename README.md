@@ -5,7 +5,7 @@
 - 🔭 I’m currently building **nutribudget**, a price-aware nutrition planner using ML, and developing new projects.
 - 🌱 I’m currently diving deep into **Cloud Computing** and **Computer Architecture**.
 - 💬 Ask me about **DSA, Python, Java, and Next.js**.
-- 📫 How to reach me: [LinkedIn] (www.linkedin.com/in/sarisha-kadakia)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sarisha-kadakia)
 
 ---
 
