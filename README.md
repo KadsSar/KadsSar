@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Sarisha! 👋
 
-<!--
-**KadsSar/KadsSar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Science Enthusiast | Full-Stack Developer | Problem Solver
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building **nutribudget**, a price-aware nutrition planner using ML, and developing new projects.
+- 🌱 I’m currently diving deep into **Cloud Computing** and **Computer Architecture**.
+- 💬 Ask me about **DSA, Python, Java, and Next.js**.
+- 📫 How to reach me: [LinkedIn](YOUR_LINKEDIN_URL_HERE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Languages & Core:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
+</p>
+
+**Frameworks & Libraries:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,nextjs,react,tailwind,fastapi,sklearn,pandas" />
+</p>
+
+**Cloud & Infrastructure:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,cloudflare,linux,git,github" />
+</p>
+
+**Databases & Tools:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,postman,vscode" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=KadsSar&theme=radical&no-frame=false&margin-w=15" alt="KadsSar" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=KadsSar&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="KadsSar's stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadsSar&layout=compact&theme=radical" alt="Top Langs" height="180" />
+</p>
+---
+
+### ⚡ Recent Activity
+- 📈 Contributed to **Nutribudget** (ML clustering & Optimization)
+- 🏗️ Working on scaling backend architectures
