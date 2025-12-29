@@ -38,6 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=KadsSar&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="KadsSar's stats" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadsSar&layout=compact&theme=radical" alt="Top Langs" height="180" />
 </p>
+
 ---
 
 ### ⚡ Recent Activity
