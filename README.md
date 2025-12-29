@@ -33,13 +33,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=KadsSar&theme=radical&no-frame=false&margin-w=15" alt="KadsSar" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=KadsSar&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="KadsSar's stats" height="180" />
